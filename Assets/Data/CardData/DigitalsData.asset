@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9c600c3c820c94aa523ddacc94d957, type: 3}
+  m_Name: DigitalsData
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _identifier: 1
+    _sprite: {fileID: 1076247800, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: 0
+  - _identifier: 2
+    _sprite: {fileID: 807152308, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: 0
+  - _identifier: 3
+    _sprite: {fileID: 1099485159, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: 0
+  - _identifier: 4
+    _sprite: {fileID: -2101446985, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: 0
+  - _identifier: 5
+    _sprite: {fileID: 320643471, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: 0
+  - _identifier: 6
+    _sprite: {fileID: 1980661902, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: 0
+  - _identifier: 7
+    _sprite: {fileID: 1298486375, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: -90
+  - _identifier: 8
+    _sprite: {fileID: -1462606382, guid: 069b61931e46a0244bedbb83aa8e41e5, type: 3}
+    angle: -90
+  - _identifier: 9
+    _sprite: {fileID: 1096421488, guid: f59c1390f5602344db8a1a854fdcee83, type: 3}
+    angle: 0
+  - _identifier: 10
+    _sprite: {fileID: -1834750020, guid: 9ed6afc2ac5230949bf189e398cc7f68, type: 3}
+    angle: 0

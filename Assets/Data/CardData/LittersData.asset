@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9c600c3c820c94aa523ddacc94d957, type: 3}
+  m_Name: LittersData
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _identifier: a
+    _sprite: {fileID: 1306505902, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: b
+    _sprite: {fileID: -646449639, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: c
+    _sprite: {fileID: 234632980, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: d
+    _sprite: {fileID: 1802364182, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: e
+    _sprite: {fileID: 2115370749, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: f
+    _sprite: {fileID: -2130655701, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: g
+    _sprite: {fileID: -1094319045, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: h
+    _sprite: {fileID: 898457042, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: i
+    _sprite: {fileID: -55193666, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: j
+    _sprite: {fileID: 1989695291, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: k
+    _sprite: {fileID: -1149154820, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: l
+    _sprite: {fileID: -1560927896, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: m
+    _sprite: {fileID: 718602070, guid: b42f024a8b46caa4cb1db51f59c3ac0d, type: 3}
+    angle: 0
+  - _identifier: n
+    _sprite: {fileID: 1606942442, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: o
+    _sprite: {fileID: -933387156, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: p
+    _sprite: {fileID: 931724425, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: q
+    _sprite: {fileID: -1274447262, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: r
+    _sprite: {fileID: 1830643499, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: s
+    _sprite: {fileID: 397877915, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: t
+    _sprite: {fileID: -610733062, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: u
+    _sprite: {fileID: -1153944319, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: v
+    _sprite: {fileID: 626282666, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: w
+    _sprite: {fileID: -1773279944, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: x
+    _sprite: {fileID: 468716354, guid: 60cd948303263cb4b9130e9763eca959, type: 3}
+    angle: 0
+  - _identifier: y
+    _sprite: {fileID: -1256258523, guid: 65aaddf969754c4418ff8ffc0c299eef, type: 3}
+    angle: 0
+  - _identifier: z
+    _sprite: {fileID: -1655680270, guid: 65aaddf969754c4418ff8ffc0c299eef, type: 3}
+    angle: 0

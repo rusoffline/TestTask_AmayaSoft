@@ -1,0 +1,19 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+.vscode/
+
+# User-specific files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files for Unity
+*.suo
+*.user
+*.userprefs
